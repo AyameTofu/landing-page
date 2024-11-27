@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    font-family: "Roboto";
+
+}
+
+.header {
+    background-color: #1F2937;
+    height: 100px;
+    display: flex;
+    padding: 0;
+    margin: 0; 
+    color: white;
+    gap: 500px;
+    font-size: 18px;
+    justify-content: center;
+}
+
+.himg {
+display: flex;
+
+}
+
+.links {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0;
+}
+
+ul {
+    display: flex;
+    gap: 50px;
+    list-style-type: none;
+}
+
+
